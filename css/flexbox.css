@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent-box{
+    width: 80%;
+    height: 400px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child-box-1{
+    width: 40%;
+    height: 40%;
+    background-color: rgb(4, 250, 189);
+}
+
+.child-box-2{
+    width: 40%;
+    height: 40%;
+    background-color: rgb(4, 250, 127);
+}
